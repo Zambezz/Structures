@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConsoleNumberGuesser\ConsoleNumberGuesser\bin\Debug\netcoreapp2.2\ConsoleNumberGuesser.deps.json
+C:\Users\User\source\repos\ConsoleNumberGuesser\ConsoleNumberGuesser\bin\Debug\netcoreapp2.2\ConsoleNumberGuesser.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleNumberGuesser\ConsoleNumberGuesser\bin\Debug\netcoreapp2.2\ConsoleNumberGuesser.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleNumberGuesser\ConsoleNumberGuesser\bin\Debug\netcoreapp2.2\ConsoleNumberGuesser.dll
+C:\Users\User\source\repos\ConsoleNumberGuesser\ConsoleNumberGuesser\bin\Debug\netcoreapp2.2\ConsoleNumberGuesser.pdb
+C:\Users\User\source\repos\ConsoleNumberGuesser\ConsoleNumberGuesser\obj\Debug\netcoreapp2.2\ConsoleNumberGuesser.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleNumberGuesser\ConsoleNumberGuesser\obj\Debug\netcoreapp2.2\ConsoleNumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleNumberGuesser\ConsoleNumberGuesser\obj\Debug\netcoreapp2.2\ConsoleNumberGuesser.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleNumberGuesser\ConsoleNumberGuesser\obj\Debug\netcoreapp2.2\ConsoleNumberGuesser.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleNumberGuesser\ConsoleNumberGuesser\obj\Debug\netcoreapp2.2\ConsoleNumberGuesser.dll
+C:\Users\User\source\repos\ConsoleNumberGuesser\ConsoleNumberGuesser\obj\Debug\netcoreapp2.2\ConsoleNumberGuesser.pdb
